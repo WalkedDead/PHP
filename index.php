@@ -10,5 +10,6 @@
   $back='Main';
   mail($to,$back,$mess);
   phpinfo();
-?>
+?>dsfsdfssdfsdfsdfds
+sdfsdf
   <input type="text"/>
